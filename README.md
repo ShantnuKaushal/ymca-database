@@ -1,6 +1,6 @@
 # YMCA Database System
 
-This project offers a complete MySQL database setup for the YMCA, starting with the Entity-Relationship model and extending through SQL scripts that define the schema, load example data, and showcase typical query operations. Created as the capstone project for a Database Management Systems course, I played a major role in shaping the ER diagram and writing all of the SQL scripts.
+This project offers a complete MySQL database setup for the YMCA, starting with the Entity-Relationship model and extending through SQL scripts that define the schema, load example data, and showcase typical query operations. Created as the final project for a Database Management Systems course, I played a major role in shaping the ER diagram and writing all of the SQL scripts.
 
 ---
 
